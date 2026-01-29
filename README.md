@@ -150,3 +150,4 @@ Please ensure:
 - Typed errors only
 - No console.log
 - Postman tests updated for new endpoints
+Advanced REGEX for Email: /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/
